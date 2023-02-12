@@ -1,0 +1,6 @@
+.idea/
+.vscode/
+.git/
+admin_api/.env
+admin_api/app/bean.php
+admin_api/config/base.php
